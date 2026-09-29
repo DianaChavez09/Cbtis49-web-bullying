@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Prevencion del Bullying - CBTis 49</title>
+</head>
+<body>
+<h1>¿Que es el Bullying?</h1>
+<p>El bullying es el acoso escolar que afecta a muchos estudiantes del CBTis 49.</p>
+<h2>Tipos de Bullying</h2>
+<ul>
+<li>Fisico</li>
+<li>Verbal</li>
+<li>Social</li>
+<li>Cibernetico</li>
+</ul>
+<h2>¿Que hacer si sufres bullying?</h2>
+<p>Habla con un adulto de confianza, con tu tutor o orientadora. No te quedes callado.</p>
+<p><b>Hecho por: Diana Elizabeth Chavez Aguayo - 5E Programacion</b></p>
+</body>
+</html>
